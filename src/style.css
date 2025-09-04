@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  background: #f7f9fc;
+  padding: 20px;
+}
+
+.app {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
